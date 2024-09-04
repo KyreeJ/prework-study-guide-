@@ -2,10 +2,10 @@
 
 ## Description 
 
-- The motive of creating this project is to help other begginner coders or students learn tne basics and understanding of coding
-- I made this project to help others with notes intact to assist other bootcamp students or people in genral to learn and study coding
-- this project could help hundreads or thousands of begginer students in coding when it comes to this study guide wheather its a test or just basics of creating an application 
-- I learned the basics and steps to create a unique website through the terminal with understanding the language and what it takes to make an application which includes the html,javasript,git,readme and the funcionality that a computer can do with simple but effective way to be creative in todays society also what it takes to 
+The motive of creating this project is to help other begginner coders or students learn tne basics and understanding of coding
+I made this project to help others with notes intact to assist other bootcamp students or people in genral to learn and study coding
+this project could help hundreads or thousands of begginer students in coding when it comes to this study guide wheather its a test or just basics of creating an application 
+I learned the basics and steps to create a unique website through the terminal with understanding the language and what it takes to make an application which includes the html,javasript,git,readme and the funcionality that a computer can do with simple but effective way to be creative in todays society also what it takes to 
 
 - [Installation](#installation)
 - [Usage](#usage)
